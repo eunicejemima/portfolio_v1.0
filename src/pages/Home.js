@@ -50,7 +50,7 @@ export default function Home() {
     <section id="home" className="hero section">
       <div className="container hero-inner">
         <div className="hero-left">
-          <h1 className="hero-title">Hi, I'm <span className="accent">Eunice Jemima</span></h1>
+          <h1 className="hero-title">Hi, I'm <span className="accent">Eunice_Jemima</span></h1>
           <p className="subtitle">Design-focused IT student building delightful interfaces</p>
           <div className="typing-line">
             <span className="typing">{display}<span className="cursor">|</span></span>
